@@ -1,0 +1,29 @@
+.container.main {
+	padding-top: 3em;
+
+}
+
+i.icon{
+	font-size: 2em;
+}
+
+#center{
+	text-align: center;
+}
+
+body{
+	padding-top: 5em;
+}
+
+
+footer{
+	text-align: center;
+}
+
+span{
+	color: green;
+}
+
+#delete{
+	display: inline;
+}
